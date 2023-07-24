@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+.mainContainer{
+  background-color: rgb(100, 72, 72);
+  border-radius: 20%;
+  padding: 10px;
+  width: 100%;
+  height: 150%;
+}
+.pupList{
+  color: rgb(197, 197, 197);
+  font-size: 30px;
+  margin: 10px;
+}
+.featuredContainer{
+  border: 2px solid rgb(140, 103, 103);
+  border-radius: 10em;
+  text-align: center;
+}
